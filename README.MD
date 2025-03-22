@@ -23,7 +23,7 @@ conda create -n conductor python=3.12
 conda activate conductor 
 ```
 
-Once you have created and activate the virtual environment, run the following command in the `conductor-take-home` to install the necessary dependencies.
+Once you have created and activate the virtual environment, run the following command in the `conductor-take-home` directory to install the necessary dependencies.
 ```
 pip install -e .
 ```
